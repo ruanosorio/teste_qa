@@ -42,6 +42,11 @@ Para cada a validação dos testes, foram criados métodos de asserções, para 
 
 Em cada execução foi criado um log no qual facilita a busca e a manutenção de possíveis erros.
 
-
+**Tecnologias:**
+- Java 8.
+- Maven.
+- JUnit 4.
+- Selenium WebDriver 3.6.
+- Easetech 1.4 (DDT).
 
 
