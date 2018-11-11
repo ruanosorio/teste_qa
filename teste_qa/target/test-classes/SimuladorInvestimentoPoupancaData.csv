@@ -1,0 +1,9 @@
+"# Dados para executar o teste simulação de investimento para Para Você#"
+simuladorInvestimentoPoupancaPFTest,valorAplicar,valorInvestir,tempoPoupar,valorInvestimento,Duration(ms)
+"",5000,5000,12,R$ 665,836.0
+"# Dados para executar o teste simulação de investimento para Para Empresa #"
+simuladorInvestimentoPoupancaPJTest,valorAplicar,valorInvestir,tempoPoupar,valorInvestimento,Duration(ms)
+"",50000,50000,5,R$ 34.161,715.0
+"# Dados para executar o teste simulação de investimento preenchendo valores incorretos #"
+simuladorInvestimentoPoupancaValidarValorNaoConfereTest,valorAplicar,valorInvestir,tempoPoupar,Duration(ms)
+"",5,5,0,607.0
