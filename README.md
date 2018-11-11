@@ -38,7 +38,7 @@ Para os testes automatizados de UI foi utilizado a metodologia de testes dirigid
 Neste caso, os input de parâmetros de entrada e saída para a execução dos testes vem de um arquivo externo (.csv) e quanto mais linhas
 conter no arquivo, mais testes são executados. Além do formato CSV, é possível trabalhar com XLS (Excel) ou mesmo JSON como DataLoader.
 
-Para cada a validação dos testes, foram criados métodos de asserções, para validar se o resultado esperado está sendo apresentado corretamente na aplicação.
+Para a validação dos testes, foram criados métodos de asserções, para validar se o resultado esperado está sendo apresentado corretamente na aplicação.
 
 Em cada execução foi criado um log no qual facilita a busca e a manutenção de possíveis erros.
 
